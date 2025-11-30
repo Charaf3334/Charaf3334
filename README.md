@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋
+# 👋 Hey there!
 
-### Just trying to get better at coding, day by day.
+### Just leveling up my coding skills, day by day.
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charaf3334&layout=compact&langs_count=8&hide=makefile&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=6&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Charaf3334&theme=dark&border_radius=6)
 
 </div>
